@@ -6,7 +6,7 @@
     <a href="https://reactjs.org/"><strong>A Reactjs Webapp</strong></a>
     <br />
     <br />
-    <a href="https://bingers-play.web.app/">View Website</a>
+    <a href="https://bingers-play.web.app/">View Webapp</a>
     ·
     <a href="https://github.com/Akash-Peace/REACTJS-FIREBASE/issues">Report Bug</a>
     ·
