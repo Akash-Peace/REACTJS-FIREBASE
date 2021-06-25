@@ -1,0 +1,12 @@
+.fullscreen {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+ }
+ #placeholderun::placeholder{
+    color: #EDEDED;
+ }
