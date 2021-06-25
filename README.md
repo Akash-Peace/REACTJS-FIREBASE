@@ -36,10 +36,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Bingers Play project objective is to showcase user's watched movies and series with their perspective via the webapp. Featured with [Smtpjs](https://smtpjs.com/) mail service and [Google Maps](https://www.google.com/maps/) service. This website is secured and hosted by [firebase](https://firebase.google.com/). [MIT](https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/blob/main/LICENSE) licenses this project. If you like this project, give a _star_ and follow me.
+Bingers Play project objective is to showcase user's watched movies and series list with their perspective via the webapp. As mentioned, I decided to present this project as a web application, particularly with [Reactjs](https://reactjs.org/). Included [TMDB](https://developers.themoviedb.org/4/getting-started/authorization) for movie/series database, So users can't fake the list by adding non-existent movie/series. Users can share their profile. Users account information, movie/series and their particulars are stored and hosted in [firebase](https://firebase.google.com/). [MIT](https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/blob/main/LICENSE) licenses this project. If you like this project, give a _star_ and follow me.
 
 ## Built With
 
+* [Reactjs](https://reactjs.org/)
 * Html
 * Css
 * [JavaScript](https://www.javascript.com/)
@@ -47,35 +48,33 @@ Bingers Play project objective is to showcase user's watched movies and series w
 
 ## Powered By
 
-* [Smtpjs](https://smtpjs.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Unpkg](https://unpkg.com/)
-* [Font Awesome](https://fontawesome.com/)
-* [Adobe Spark](https://spark.adobe.com/)
-* [Google Maps](https://www.google.com/maps/)
+* [TMDB](https://developers.themoviedb.org/4/getting-started/authorization)
 * [Firebase](https://firebase.google.com/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [Icons8](https://icons8.com/)
+* [React Icons](https://react-icons.github.io/react-icons/)
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Usage of this project is to view Sri Sai Industries's Industrial products, gallery, about us and contacts. Users can view all those informations and contact them through their contact details or just mail your needs from the website. Users can make a great deal & good understanding about their products.
+Usage of this project is to view users's movie/series list with users specified rating & genre of their perspective. Users can can share their profile.
 
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/REACTJS-FIREBASE/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/REACTJS-FIREBASE/blob/main/LICENSE) for more information.
 
 
 ## My System Spec
 
-**OS:** [Linux Mint](https://linuxmint.com/)\
+**OS:** [Elementary](https://elementary.io/)\
 **Model:** Acer Aspire 5 A515-51G\
 **Processor:** Intel i5 7th gen\
 **Ram:** DDR4 8gb\
