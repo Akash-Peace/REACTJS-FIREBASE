@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/REACTJS-FIREBASE/tree/main/Screenshots/BingersPlayLogo.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/REACTJS-FIREBASE/blob/main/Screenshot/BingersPlayLogo.png" alt="Logo" width="150" height="150">
   <h3 align="center">BINGERS PLAY</h3>
   <p align="center">
     <a href="https://reactjs.org/"><strong>A Reactjs Webapp</strong></a>
@@ -63,7 +63,7 @@ Usage of this project is to view users's movie/series list with users specified 
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/REACTJS-FIREBASE/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/REACTJS-FIREBASE/blob/main/Screenshot/) here.
 
 
 <!-- LICENSE -->
