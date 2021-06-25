@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/blob/main/templates/ssititlelogo.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/REACTJS-FIREBASE/tree/main/Screenshots/BingersPlayLogo.png" alt="Logo" width="150" height="150">
   <h3 align="center">BINGERS PLAY</h3>
   <p align="center">
     <a href="https://reactjs.org/"><strong>A Reactjs Webapp</strong></a>
