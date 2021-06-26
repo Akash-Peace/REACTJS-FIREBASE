@@ -146,7 +146,7 @@ const Signup = (props) => {
                             <Modal.Header style={{backgroundColor: (dark === 0 ? '' : '#2c2c30')}}><Modal.Title style={{color: (dark === 0 ? 'green' : 'limegreen')}}>Bingers Play</Modal.Title></Modal.Header>
                             {invalidresetmail === 3 ? <h4 style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), width: '90%', marginLeft: '5%', color: 'orange', textAlign: 'center', marginTop: '15px', marginBottom: '15px'}}>We can't change password for third party authenticated mail. If you want to do so, then change password from your origin provider.</h4> : <>
                             {invalidresetmail === 2 ? <h1 style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), color: (dark === 0 ? 'green' : 'limegreen'), textAlign: 'center', marginTop: '15px', marginBottom: '15px'}}>Reset mail sent</h1> : <>
-                            <Modal.Body style={{backgroundColor: (dark === 0 ? '' : '#2c2c30')}}>
+                            <Modal.Body style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), marginTop: '-2px', borderBottomRightRadius: '4px', borderBottomLeftRadius: '4px'}}>
                             <Form onSubmit={resetpass}>
                                 <Form.Group>
                                     <Form.Control id={dark === 0 ? '' : 'placeholderun'} style={{color: (dark === 0 ? '' : '#EDEDED'), backgroundColor: (dark === 0 ? '' : '#2c2c30')}} placeholder='Email address' type='email' onChange={(e) => setForm({...form, email: e.target.value})} required />
@@ -157,8 +157,8 @@ const Signup = (props) => {
                             </Modal.Body></>}</>}
                         </Modal>
                         <Modal show={alert} onHide={() => {setAlert(false); setUsern(4); window.history.go(-1)}}>
-                        <Modal.Header><Modal.Title style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), color: (dark === 0 ? 'green' : 'limegreen')}}>Bingers Play</Modal.Title></Modal.Header>
-                            <Modal.Body><h1 style={{color: (dark === 0 ? 'green' : 'limegreen'), backgroundColor: (dark === 0 ? '' : '#2c2c30'), textAlign: 'center', marginTop: '15px', marginBottom: '15px'}}>Verification mail sent</h1></Modal.Body>
+                        <Modal.Header style={{backgroundColor: (dark === 0 ? '' : '#2c2c30')}}><Modal.Title style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), color: (dark === 0 ? 'green' : 'limegreen')}}>Bingers Play</Modal.Title></Modal.Header>
+                            <Modal.Body style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), marginTop: '-2px', borderBottomRightRadius: '4px', borderBottomLeftRadius: '4px'}}><h1 style={{color: (dark === 0 ? 'green' : 'limegreen'), backgroundColor: (dark === 0 ? '' : '#2c2c30'), textAlign: 'center', marginTop: '15px', marginBottom: '15px'}}>Verification mail sent</h1></Modal.Body>
                         </Modal>
                         <hr style={{color: (dark === 0 ? 'gray' : '#EDEDED'), marginTop: '20px', width: '50%', marginLeft: '25%'}} />
                         <div style={{marginTop: '25px', marginBottom: '25px', display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly'}}>
