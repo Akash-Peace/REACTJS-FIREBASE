@@ -14,9 +14,11 @@ html {
  .btt{
    opacity: 0.2;
  }
- .btt:hover{
-    opacity: 1;
-    color: green !important;
+ @media screen and (min-width: 550px) {
+   .btt:hover{
+      opacity: 1;
+      color: green !important;
+   }
  }
  .btn:focus {
    outline: none !important;
