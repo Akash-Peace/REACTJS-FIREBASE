@@ -316,7 +316,7 @@ const Home = () => {
                 <Modal.Header style={{backgroundColor: (dark === 0 ? '' : '#2c2c30')}}>
                     <Modal.Title style={{cursor: 'default', color: (dark === 0 ? 'green' : 'limegreen')}}>Bingers Play</Modal.Title>
                 </Modal.Header>
-                <Modal.Body style={{backgroundColor: (dark === 0 ? '' : '#2c2c30')}}>
+                <Modal.Body style={{backgroundColor: (dark === 0 ? '' : '#2c2c30'), marginTop: '-2px', borderBottomRightRadius: '4px', borderBottomLeftRadius: '4px'}}>
                 {usernameval !== 'submitted' ? 
                 <Form onSubmit={Changingun}>
                     <Form.Group style={{marginBottom: '20px'}}>
