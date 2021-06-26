@@ -180,7 +180,7 @@ const Profile = (props) => {
                     <Dropdown.Item style={{color: (dark === 0 ? '' : '#EDEDED')}} onClick={()=> {viewby ? setViewby(false) : setViewby(true)}}>{viewby ? 'Sherlock view' : 'Groot view'}</Dropdown.Item>
                     <Dropdown.Divider style={{backgroundColor: (dark === 0 ? '' : '#EDEDED'), marginLeft: '25%', width: '50%'}}/>
                     <Dropdown.Header style={{color: (dark === 0 ? '' : 'gray')}}>Mode</Dropdown.Header>
-                    <Dropdown.Item style={{color: (dark === 0 ? '' : '#EDEDED')}} onClick={()=> {dark === 0 ? setDark(1) : setDark(0)}}>{dark === 0 ? 'Bat man mode' : 'Classic mode'}</Dropdown.Item>
+                    <Dropdown.Item style={{color: (dark === 0 ? '' : '#EDEDED')}} onClick={()=> {dark === 0 ? setDark(1) : setDark(0)}}>{dark === 0 ? 'Batman mode' : 'Classic mode'}</Dropdown.Item>
                     <Dropdown.Divider style={{backgroundColor: (dark === 0 ? '' : '#EDEDED'), marginLeft: '25%', width: '50%'}}/>
                     <Dropdown.Header style={{color: (dark === 0 ? '' : 'gray')}}>Sort by</Dropdown.Header>
                     <Dropdown.Item style={{color: (dark === 0 ? '' : '#EDEDED')}} onClick={()=> {Homeshow('0'); setGenremode(false)}}>Date (Newest)</Dropdown.Item>
