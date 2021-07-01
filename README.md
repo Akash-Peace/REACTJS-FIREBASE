@@ -58,7 +58,7 @@ Bingers Play project objective is to showcase user's watched movies and series l
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Usage of this project is to view users's movie/series list with users specified rating & genre of their perspective. Users can can share their profile.
+Usage of this project is to view users's movie/series list with users specified rating & genre of their perspective. Users can share their profile.
 
 
 ## Screenshots
