@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Bingers Play project objective is to showcase user's watched movies and series list with their perspective via the webapp. As mentioned, I decided to present this project as a web application, particularly with [Reactjs](https://reactjs.org/). Included [TMDB](https://developers.themoviedb.org/4/getting-started/authorization) for movie/series database, So users can't fake the list by adding non-existent movie/series. Users can share their profile. Users account information, movie/series and their particulars are stored and hosted in [firebase](https://firebase.google.com/). [MIT](https://github.com/Akash-Peace/INDUSTRIAL-WEBSITE/blob/main/LICENSE) licenses this project. If you like this project, give a _star_ and follow me.
+Bingers Play project objective is to showcase user's watched movies and series list with their perspective via the webapp. As mentioned, I decided to present this project as a web application, particularly with [Reactjs](https://reactjs.org/). Included [TMDB](https://developers.themoviedb.org/4/getting-started/authorization) for movie/series database, So users can't fake the list by adding non-existent movie/series. Users can share their profile. Users account information, movie/series and their particulars are stored and hosted in [firebase](https://firebase.google.com/). [MIT](https://github.com/Akash-Peace/REACTJS-FIREBASE/blob/main/LICENSE) licenses this project. If you like this project, give a _star_ and follow me.
 
 ## Built With
 
